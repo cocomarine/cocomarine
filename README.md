@@ -3,6 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-hj--kang07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hj-kang07/)](https://www.linkedin.com/in/hj-kang07/)
 [![Gmail Badge](https://img.shields.io/badge/-hkang07-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hkang07@gmail.com)](mailto:hkang07@gmail.com)
+[![Codewars Badge](https://www.codewars.com/users/HJ%20Kang/badges/small)](https://www.codewars.com/users/HJ%20Kang/badges/small)
+
 
 ### Hi there 👋
 

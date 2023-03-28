@@ -6,6 +6,6 @@
 [![Codewars Badge](https://www.codewars.com/users/HJ%20Kang/badges/small)](https://www.codewars.com/users/HJ%20Kang)
 
 
-### Hi there 👋
+### Hi, I am HJ 👋
 
-I am HJ, Junior Software Developer. 
+I am a Software Developer. 

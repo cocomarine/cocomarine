@@ -8,6 +8,6 @@
 
 ### Hi, I am HJ 👋
 
-I am a software developer skilled in JavaScript, React, Node.js and Python and familiar with network fundamentals and core concepts and tools of DevOps. Currently, I am studying software development skills at CommandShift and in the DevNetSkills programme with The Open University. 
+I am a software developer skilled in JavaScript, TypeScript, React, Node.js and Python and familiar with network fundamentals and core concepts and tools of DevOps. 
 
 Proven team player with dedication and integrity evidenced by years of experience working on multidisciplinary research and producing high-quality outcomes. Logical thinker and problem-solver at heart, seeking to pursue new-found passion for coding and technology.
